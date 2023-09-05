@@ -10,6 +10,14 @@
       "StackName": "amplify-aisummarizer-main-154552",
       "StackId": "arn:aws:cloudformation:us-east-1:667468395098:stack/amplify-aisummarizer-main-154552/d2f85dd0-4c24-11ee-9830-124212fee89d",
       "AmplifyAppId": "d3cl9u253dsogr"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3cl9u253dsogr",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
