@@ -7,9 +7,4 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
-  resolve: {
-    alias: {
-      "./runtimeConfig": "./runtimeConfig.browser",
-    },
-  },
 });
